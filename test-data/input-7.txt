@@ -1,3 +1,4 @@
 GT4500,10,0,10,0
-TORPEDO,SINGLE  # 1. lövés: a primary tüzel, és átbillenti a belső flaget
-TORPEDO,SINGLE  # 2. lövés: EZ FOG BELELÉPNI A PIROS IF ÁGBA (a secondary jön és tüzel)
+TORPEDO,SINGLE  # 1. lövés: primary lő (wasPrimaryFiredLast = true)
+TORPEDO,SINGLE  # 2. lövés: secondary lő (wasPrimaryFiredLast = false)
+TORPEDO,SINGLE  # 3. lövés: EZ FOG BELELÉPNI AZ ELSE ÁGBA! (újra a primary-nak kellene jönnie)
