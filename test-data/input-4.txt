@@ -1,0 +1,2 @@
+GT4500,10,1,10,0 # A primary hibaaranya 1 (100% hibas)
+TORPEDO,SINGLE   # TC-04: A primary hibat jelent, a secondary meg sem probalja

@@ -1,0 +1,2 @@
+GT4500,0,0,0,0  # Mindkét tároló teljesen üres
+TORPEDO,SINGLE  # Belép a legmélyebb hibakezelő ágakra, firingSuccess = false marad

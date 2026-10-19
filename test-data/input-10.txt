@@ -1,0 +1,2 @@
+GT4500,0,0,10,0 # ALL mód: a primary üres, de a secondary tele van
+TORPEDO,ALL     # Kipróbálja, mi van, ha az első if feltétel HAMIS (else ág lefedve!)
