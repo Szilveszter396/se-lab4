@@ -1,4 +1,4 @@
-GT4500,10,0,10,0
-TORPEDO,SINGLE  # 1. lövés: primary lő (wasPrimaryFiredLast = true)
+GT4500,1,0,10,0 # A primary-ban csak 1 loszer van, a secondary-ban 10
+TORPEDO,SINGLE  # 1. lövés: primary lő (wasPrimaryFiredLast = true) -> primary kiürül!
 TORPEDO,SINGLE  # 2. lövés: secondary lő (wasPrimaryFiredLast = false)
-TORPEDO,SINGLE  # 3. lövés: EZ FOG BELELÉPNI AZ ELSE ÁGBA! (újra a primary-nak kellene jönnie)
+TORPEDO,SINGLE  # 3. lövés: primary jönne, de ÜRES! Így a 75. sornál lévő else ágba lép, és újra a secondary lő!
