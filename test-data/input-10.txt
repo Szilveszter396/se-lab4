@@ -1,0 +1,2 @@
+GT4500,10,0,0,0  # A secondary teljesen üres
+TORPEDO,ALL      # TC-05 kiterjesztés: ALL mód üres secondary-val 

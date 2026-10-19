@@ -1,3 +1,3 @@
 GT4500,0,0,10,0 # A primary eleve teljesen üres, csak a secondary-ban van lőszer
 TORPEDO,SINGLE  # 1. lövés: a primary-val próbálkozna, de üres, így a secondary lő (wasPrimaryFiredLast = false)
-TORPEDO,SINGLE  # 2. lövés: EZ BELELÉP A LEGESLEGUTOLSÓ PIROS IF-EDBE! (secondary jönne újra, mert a primary üres)
+TORPEDO,SINGLE  # 2. lövés
