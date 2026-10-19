@@ -1,0 +1,2 @@
+GT4500,0,0,0,0   # Mindket tarolo teljesen ures
+TORPEDO,SINGLE  # TC-06: Nincs loszer, meghiusul

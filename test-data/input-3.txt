@@ -1,0 +1,3 @@
+GT4500,10,0,0,0 # A secondary tarolo eleve ures
+TORPEDO,SINGLE  # Elso tuzeles (primary lo)
+TORPEDO,SINGLE  # TC-03: A secondary jonne de ures, igy a primary lo ujra
