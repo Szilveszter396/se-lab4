@@ -1,0 +1,3 @@
+GT4500,10,0,10,0
+TORPEDO,SINGLE  # 1. lövés: a primary tüzel, és átbillenti a belső flaget
+TORPEDO,SINGLE  # 2. lövés: EZ FOG BELELÉPNI A PIROS IF ÁGBA (a secondary jön és tüzel)
